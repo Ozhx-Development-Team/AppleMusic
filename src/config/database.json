@@ -1,9 +1,9 @@
 {
     "database": {
-        "name": "Rina",
-        "username": "Rina",
-        "password": "ZcRkWlSwcqkd6vVd",
-        "host": "rina.yqlvu.mongodb.net",
-        "type": "mongodb+srv"
+        "name": "",
+        "username": "",
+        "password": "",
+        "host": "",
+        "type": ""
     }
 }
