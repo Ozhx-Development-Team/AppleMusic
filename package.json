@@ -12,7 +12,11 @@
     "start:production:linux": "npm run clear:linux && npm run production",
     "clear:win": "cls",
     "clear:linux": "clear",
-    "production": "node ./src/app.js"
+    "production": "node ./src/app.js",
+    "git": "echo Please selete one of the follwoing: Start Git: git:push git commit, git:master git push origin master, git:status git status",
+    "git:push": "git commit",
+    "git:master": "git push origin master",
+    "git:status": "git status"
   },
   "author": "Johnny!#0031",
   "license": "ISC",
