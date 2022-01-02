@@ -76,5 +76,5 @@ typings/
 .fusebox/
 
 # Json 
-database.json
-apple.json
+config/database.json
+config/apple.json
