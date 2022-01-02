@@ -1,0 +1,13 @@
+{
+    "client": {
+        "default_prefix": "-",
+        "client_id": "",
+        "client_secret": "",
+        "public_key": ""
+    },
+    "backend": {    
+        "full_access": [""],
+        "notify": ["", ""],
+        "partial_access": [""]
+    }
+}
