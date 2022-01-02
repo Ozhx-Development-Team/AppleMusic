@@ -76,4 +76,4 @@ typings/
 .fusebox/
 
 # Json 
-**/config
+*.json
